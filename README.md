@@ -1,0 +1,3 @@
+# pbooth
+
+Custom python photobooth
